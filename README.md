@@ -1,2 +1,4 @@
-# Vermontel-Testing
-This is a proof of concept for Vermont Telephone Company's new ticketing system using Github
+Rules:
+If you aren't from VTEL then fuck off.
+
+If you are from VTEL then don't fuck off. 
